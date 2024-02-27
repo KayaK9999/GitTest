@@ -20,3 +20,5 @@ git reset --hard HEAD^
 `git push origin main`
 
 git switch -c dev
+
+git switch feature1
