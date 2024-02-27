@@ -22,3 +22,7 @@ git reset --hard HEAD^
 git switch -c dev
 
 git switch feature1
+
+git branch
+
+git branch -D <name>
