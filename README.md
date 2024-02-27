@@ -18,3 +18,5 @@ git reset --hard HEAD^
 `git remote add origin git@github.com:KayaK9999/FileName.git`
 
 `git push origin main`
+
+git branch -d dev
